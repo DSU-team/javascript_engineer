@@ -47,3 +47,22 @@ And by saying that we really mean that.
 P.S. **You can either be experienced Java and/or JS developer**- nevermind, we're looking for people who are passionate about their craft and who are ready for a challenge! Feel free to reach out.
 
 #### Sense of humor is a must at DSU.
+
+
+### Solution stack:
+
+- TypeScript
+- NodeJS 10
+- ExpressJS
+- GC PubSub
+- Firebase Functions, Storage, FireStore
+- PostgreSQL
+- Redis
+- Neo4j
+- Swagger
+- Git
+- Jenkins Pipelines
+- Jest
+- Testdouble
+- Angular 9
+- Flutter
