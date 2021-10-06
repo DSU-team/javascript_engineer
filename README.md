@@ -6,24 +6,26 @@
 
  Maybe the best opportunity for a proactive Engineer who's in love with the Software Engineering craft - just as we are.
 
-Our product is **#1 Social Media App** in various countries and currently we're experiencing the **1000% growth**.<br />
-Best local engineers' team, cutting-edge stack and lots of space for your ideas.<br />
+Our product is **#1 Social Media App** in various countries and for the last months we're experiencing the **1000% growth**.<br />
+Best local engineers' team, cutting-edge stack and lots of space for your ideas and initiatives.<br />
 Can you imagine a better chance for a professional enthusiast?<br />
 You might be impressed with what we're doing here. So let's get to the nitty-gritty part:<br />
 
 ### Requirements:
-  * Solid back-end development experience - Java / JS / ...  (we believe that any language is just an instrument for the Engineer); 
-  * Deep understanding of distributed systems principles functioning; 
-  * Knowledge of TypeScript is highly desirable; 
+  * Solid back-end development experience (either JS or Java - or even any other complex language - we all know these are just the tools for the true Engineer right?); 
   * Experience with SQL and NoSQL;
   * Experience in writing unit and integration tests;
-  * Experience in setting up or using CI/CD on a project. 
+  * Deep understanding of distributed systems principles functioning;
+  * Experience in setting up or using CI/CD on a project;
+  * Knowledge of TypeScript is highly desirable; 
+ 
+ 
 
 ### Will be a plus:
-  * Experience with Angular 2+ (at least some); 
   * Experience with Redis & caching systems; 
   * Pub-Sub messaging systems (e.g. RabbitMQ, Google PubSub, Kafka);
   * Experience with Neo4j; 
+  * Experience with Angular 2+ (at least some); 
   * Any experience with Python; 
   * Knowledge of Swagger;
   * Experience of working with multimedia (video streaming, video/photo coding etc.) 
@@ -34,7 +36,9 @@ You might be impressed with what we're doing here. So let's get to the nitty-gri
   * Work with SQL and NoSQL databases (considering the necessity of future scaling); 
   * Work with Neo4j graph database; 
   * Work with Angular 2+ (a small part but still an important one);
-  * Participate in a variety of divergent and challenging tasks that emerge daily in an actively developing product. 
+  * Participate in a variety of divergent and challenging tasks that emerge daily in an actively developing product;
+  * Interviewing new candidates for your team, mentoring and supervising.
+
 
 We are looking for an ambitious, experienced and talented engineer to join the team of the same people who work on our successful mobile startup. 
 
@@ -44,7 +48,7 @@ We are looking for an individual who will work closely together with us and our 
 You will be working closely with the best engineers in town enjoying all the benefits of product development. We encourage initiative, creative and proactive approach and fully support our talents on all the levels.
 And by saying that we really mean that.
 
-P.S. **You can either be experienced Java and/or JS developer**- nevermind, we're looking for people who are passionate about their craft and who are ready for a challenge! Feel free to reach out.
+P.S. **You can either be experienced Java and/or JS developer**- nevermind, we're looking for people who are passionate about their craft and who are ready for a challenge! Feel free to reach out. Same as you don't have some of the skills or experience that are mentioned above.
 
 #### Sense of humor is a must at DSU.
 
